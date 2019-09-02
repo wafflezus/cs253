@@ -17,4 +17,4 @@ add_compile_options(-Wduplicated-branches -Werror -Wfatal-errors -Winit-self)
 add_compile_options(-Wlogical-op -Wold-style-cast -Wshadow)
 add_compile_options(-Wunused-const-variable=1 -Wzero-as-null-pointer-constant)
 
-add_executable(hw1 main.cpp)
+add_executable(hw2 main.cpp)
