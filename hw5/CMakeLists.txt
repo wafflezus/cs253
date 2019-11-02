@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(HW5)
+add_compile_options(-Wall)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(hw5 Enemy.cc Gallery.cpp test.cc)
